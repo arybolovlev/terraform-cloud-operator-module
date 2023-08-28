@@ -1,5 +1,6 @@
 variable "username_length" {
-  default = 2
+  description = "The Username Length"
+  default     = 2
 }
 
 variable "secret_length" {
