@@ -1,5 +1,5 @@
 variable "username_length" {
-  default = 8
+  default = 4
 }
 
 variable "secret_length" {
